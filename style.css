@@ -197,7 +197,7 @@ nav,
 
 :root {
   --bg-color: rgb(245, 245, 245);
-  --typewriterSpeed: 5s;
+  --typewriterSpeed: 3.5s;
   --typewriterCharacters: 30;
 }
 
