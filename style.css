@@ -257,7 +257,7 @@ nav,
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: #0000FF;
   color: white;
   padding: 6px;
   width: 32px;
@@ -792,5 +792,8 @@ footer {
   }
   .modal__half {
     padding: 40px;
+  }
+  #personal-logo{
+    margin-left: -32px;
   }
 }
