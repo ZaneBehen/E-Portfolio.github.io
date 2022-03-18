@@ -610,10 +610,12 @@ nav {
 
 .project__description--title {
   font-size: 40px;
+  color: white;
 }
 
 .project__description--sub-title {
   margin-top: 8px;
+  color: white;
 }
 
 .project__description--link {
@@ -624,6 +626,7 @@ nav {
 
 .project__description--para {
   margin: 16px 0;
+  color: white;
 }
 
 /* 
